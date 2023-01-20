@@ -10,12 +10,12 @@
  */
 defined( 'ABSPATH' ) || die( 'File cannot be accessed directly' );
 
-get_header();
+	get_header();
 ?>
 
-<main>
-	Main content
-</main>
+		<main>
+			Main content
+		</main>
 
 <?php
-get_footer();
+	get_footer();

@@ -5,14 +5,17 @@
  * @package WP Barebones Theme
  */
 
+/**
+ * Exit if accessed directly
+ */
 defined( 'ABSPATH' ) || die( 'File cannot be accessed directly' );
 
-get_header();
+	get_header();
 ?>
 
-<main>
-	Archive
-</main>
+		<main>
+			Archive
+		</main>
 
 <?php
-get_footer();
+	get_footer();
