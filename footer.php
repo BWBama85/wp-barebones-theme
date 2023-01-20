@@ -11,9 +11,13 @@
 defined( 'ABSPATH' ) || die( 'File cannot be accessed directly' );
 ?>
 
-<footer>
-	Footer
-</footer>
+	<footer>
+		Footer
+	</footer>
 
 <?php
-wp_footer();
+	wp_footer();
+?>
+
+	</body>
+</html>
