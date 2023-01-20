@@ -15,6 +15,11 @@ defined( 'ABSPATH' ) || die( 'File cannot be accessed directly' );
 <html class="no-js" <?php language_attributes(); ?>>
 
 	<head>
+		<?php
+			/**
+			 * The Title Tag, Meta Description and other SEO related Meta is handled by The SEO Framework plugin.
+			 */
+		?>
 		<meta charset="<?php bloginfo( 'charset' ); ?>">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" >
 
