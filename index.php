@@ -9,3 +9,10 @@
  * Exit if accessed directly
  */
 defined( 'ABSPATH' ) || die( 'File cannot be accessed directly' );
+
+get_header();
+?>
+
+<main>
+	Main content
+</main>
