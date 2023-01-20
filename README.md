@@ -1,1 +1,1 @@
-The basics for a WordPress theme
+The basics to start developing a WordPress theme
